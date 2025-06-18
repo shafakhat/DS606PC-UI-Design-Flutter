@@ -15,7 +15,7 @@
 5. Fetches data and write code for unit Test for UI components and also animation  
 
 ### List of Experiments: 
-Students need to implement the following experiments 
+***Students need to implement the following experiments***
 1. a) Install Flutter and Dart SDK. b) Write a simple Dart program to understand the language basics.
 2. a) Explore various Flutter widgets (Text, Image, Container, etc.). b) Implement different layout structures using Row, Column, and Stack widgets.
 3. a) Design a responsive UI that adapts to different screen sizes. b) Implement media queries and breakpoints for responsiveness.
