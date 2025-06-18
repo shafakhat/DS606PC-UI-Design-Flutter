@@ -7,11 +7,11 @@
 - Understand to include animation apart from fetching data  
 
 # Course Outcomes: 
-- Implements Flutter Widgets and Layouts 
-- Responsive UI Design and with Navigation in Flutter 
-- Create custom widgets for specific UI elements and also Apply styling using themes and custom styles. 
-- Design a form with various input fields, along with validation and error handling 
-- Fetches data and write code for unit Test for UI components and also animation  
+1. Implements Flutter Widgets and Layouts
+2. Responsive UI Design and with Navigation in Flutter
+3. Create custom widgets for specific UI elements and also Apply styling using themes and custom styles.
+4. Design a form with various input fields, along with validation and error handling
+5. Fetches data and write code for unit Test for UI components and also animation  
 
 # List of Experiments: 
 Students need to implement the following experiments 
