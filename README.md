@@ -1,17 +1,17 @@
 # DS606PC-UI-Design-Flutter
 
 # Course Objectives: 
-• Learns to Implement Flutter Widgets and Layouts 
-• Understands Responsive UI Design and with Navigation in Flutter 
-• Knowledge on Widges and customize widgets for specific UI elements, Themes 
-• Understand to include animation apart from fetching data  
+- Learns to Implement Flutter Widgets and Layouts 
+- Understands Responsive UI Design and with Navigation in Flutter 
+- Knowledge on Widges and customize widgets for specific UI elements, Themes 
+- Understand to include animation apart from fetching data  
 
 # Course Outcomes: 
-• Implements Flutter Widgets and Layouts 
-• Responsive UI Design and with Navigation in Flutter 
-• Create custom widgets for specific UI elements and also Apply styling using themes and custom styles. 
-• Design a form with various input fields, along with validation and error handling 
-• Fetches data and write code for unit Test for UI components and also animation  
+- Implements Flutter Widgets and Layouts 
+- Responsive UI Design and with Navigation in Flutter 
+- Create custom widgets for specific UI elements and also Apply styling using themes and custom styles. 
+- Design a form with various input fields, along with validation and error handling 
+- Fetches data and write code for unit Test for UI components and also animation  
 
 # List of Experiments: 
 Students need to implement the following experiments 
