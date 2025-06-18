@@ -1,19 +1,20 @@
-# DS606PC-UI-Design-Flutter
+# Syllabus
+## DS606PC-UI-Design-Flutter
 
-# Course Objectives: 
+### Course Objectives: 
 - Learns to Implement Flutter Widgets and Layouts 
 - Understands Responsive UI Design and with Navigation in Flutter 
 - Knowledge on Widges and customize widgets for specific UI elements, Themes 
 - Understand to include animation apart from fetching data  
 
-# Course Outcomes: 
+### Course Outcomes: 
 1. Implements Flutter Widgets and Layouts
 2. Responsive UI Design and with Navigation in Flutter
 3. Create custom widgets for specific UI elements and also Apply styling using themes and custom styles.
 4. Design a form with various input fields, along with validation and error handling
 5. Fetches data and write code for unit Test for UI components and also animation  
 
-# List of Experiments: 
+### List of Experiments: 
 Students need to implement the following experiments 
 1. a) Install Flutter and Dart SDK. b) Write a simple Dart program to understand the language basics.
 2. a) Explore various Flutter widgets (Text, Image, Container, etc.). b) Implement different layout structures using Row, Column, and Stack widgets.
